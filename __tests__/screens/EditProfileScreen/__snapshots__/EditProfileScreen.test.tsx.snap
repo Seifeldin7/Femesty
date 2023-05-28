@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render edit profile screen correct 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "marginTop": null,
+    }
+  }
+  horizontal={false}
+>
+  <View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "marginLeft": 10,
+            "opacity": 1,
+            "paddingTop": 7,
+          }
+        }
+      >
+        <Text />
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 2.5,
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 30,
+            }
+          }
+        >
+          Edit Profile
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "flex": 0.5,
+          "marginHorizontal": 10,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#65CE88",
+            "fontSize": 17,
+          }
+        }
+      >
+        Save Changes
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 2,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "borderRadius": 20,
+            "height": 120,
+            "width": 120,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 3.5,
+          "marginLeft": 15,
+          "width": "90%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 21,
+            "marginVertical": 8,
+          }
+        }
+      >
+        Name
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 21,
+            "marginVertical": 8,
+          }
+        }
+      >
+        User Name
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;

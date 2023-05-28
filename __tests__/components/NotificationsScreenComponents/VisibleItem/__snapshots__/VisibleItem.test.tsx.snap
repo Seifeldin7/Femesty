@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render visible item correctly in notifications 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+      "borderRadius": 5,
+      "elevation": 10,
+      "height": 110,
+      "margin": 5,
+      "marginBottom": 15,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.9,
+      "shadowRadius": 2,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFF",
+        "borderRadius": 10,
+        "height": 60,
+        "marginBottom": 15,
+        "padding": 10,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": undefined,
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 25,
+            "height": 50,
+            "marginRight": 5,
+            "width": 50,
+          }
+        }
+      />
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_SemiBold",
+              "fontSize": 18,
+              "fontWeight": "bold",
+              "marginBottom": 5,
+            }
+          }
+        >
+           
+          Item is shipped
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_SemiBold",
+              "fontSize": 15,
+              "marginBottom": 5,
+            }
+          }
+        >
+           
+          T-Shirt White
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

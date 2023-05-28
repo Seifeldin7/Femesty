@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render button in all screens 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "red",
+      "borderRadius": 5,
+      "height": 50,
+      "margin": 14,
+      "opacity": 1,
+    }
+  }
+  testID="ButtonTouchableOpacity"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "black",
+        },
+        Object {
+          "fontFamily": "Lato_Regular",
+          "fontSize": 16,
+          "margin": 14,
+        },
+      ]
+    }
+  >
+    hello
+  </Text>
+</View>
+`;

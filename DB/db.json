@@ -1,0 +1,1131 @@
+{
+  "facebookAuth": {
+    "expiry": {
+      "date": "2020-11-18 00:24:08.306905",
+      "timezone": "UTC",
+      "timezone_type": 3
+    },
+    "token": "6b370bd0627a3d3e826942efc3cf4825c0bddf22638c8e9ed80a49759cd508c7a27acfb987607307c007ec0fd19fd56aa251aeb31e0d04a7e9c3774cde24d00a",
+    "createdAt": 1611233282238
+  },
+  "search": [
+    "Dresses",
+    "Evening Dresses",
+    "Bags",
+    "Gucci",
+    "Elegant",
+    "Fantastic",
+    "Zara",
+    "Working Uniform",
+    "Fantastic Night"
+  ],
+  "tags": [
+    [
+      "dresses",
+      "bags",
+      "shirts",
+      "shorts",
+      "elegant",
+      "fantastic"
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "notifications": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Notification2",
+      "description": "there is second notification",
+      "created_at": "Nov 20",
+      "is_read": "false",
+      "subject": {
+        "name": "Blue Jeans",
+        "image1": "https://cdna.artstation.com/p/assets/images/images/002/187/230/20160319140627/smaller_square/imge-celepci-10474261-804629706234528-6922738846313196806-n-by-imge-d88svdj.jpg",
+        "image2": "https://cdna.artstation.com/p/assets/images/images/002/187/230/20160319140627/smaller_square/imge-celepci-10474261-804629706234528-6922738846313196806-n-by-imge-d88svdj.jpg",
+        "image3": "https://cdna.artstation.com/p/assets/images/images/002/187/230/20160319140627/smaller_square/imge-celepci-10474261-804629706234528-6922738846313196806-n-by-imge-d88svdj.jpg",
+        "description": "there is another one",
+        "price": 50,
+        "created_at": "Nov 20",
+        "sizes": [
+          "XL"
+        ],
+        "colors": [
+          "gray"
+        ],
+        "seller": {},
+        "category": {}
+      },
+      "subject_type": "Product",
+      "user": {
+        "name": "MEDHAT ALHADDAD",
+        "username": "medhat_alhaddad",
+        "image": "https://i.picsum.photos/id/811/400/600.jpg?hmac=jm4qgSLnICVm_fD23AJogYe6FH2ind_jv4xxvwC57XE",
+        "email": "me.al@ok.co",
+        "created_at": "Nov 20",
+        "phone": "01111111111",
+        "address": "Mokattam, Cairo",
+        "description": "I will follow you everywhere, any where you go you will find my outfit"
+      }
+    }
+  ],
+  "me": {
+    "user": {
+      "name": "Amera Ahmed",
+      "username": "amera-ahmed",
+      "image": "https://freedesignfile.com/upload/2017/12/Beautiful-girls-with-fashionable-hairstyles-and-stylish-make-up-Stock-Photo-01.jpg",
+      "email": "me.al@ok.co",
+      "created_at": "Nov 20",
+      "phone": "0112542192",
+      "address": "8851 Alabama st., Cairo",
+      "description": "I will follow you everywhere, any where you go you will find my outfit"
+    }
+  },
+  "favorites": [
+    {
+      "id": 1002,
+      "created_at": "2021-02-01T00:06:00.794Z",
+      "look": {
+        "id": 2,
+        "media1": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+        "media2": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+        "media3": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+        "media4": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+        "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+        "name": "Green Suite",
+        "created_at": "Friday 8 March 2020",
+        "category": {
+          "id": 2,
+          "name": "Suites Dresses",
+          "order": "2"
+        },
+        "dots": [
+          {
+            "id": 1,
+            "media1Dot": "{\"x\": 0.46,\"y\": 0.18}",
+            "media2Dot": "{\"x\": 0.65,\"y\": 0.18}",
+            "media3Dot": "{\"x\": 0.8,\"y\": 0.3}",
+            "media4Dot": "{\"x\": 0.3,\"y\": 0.25}",
+            "product": {
+              "created_at": "Sunday 3 January 2020",
+              "image1": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+              "image2": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+              "image3": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+              "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+              "name": "Green Suite Hijab",
+              "price": 200,
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Green",
+                "white",
+                "black",
+                "gray",
+                "red"
+              ],
+              "category": {
+                "id": 1,
+                "name": "Head",
+                "order": "1"
+              },
+              "seller": {
+                "name": "ZARA",
+                "website": "zara.com",
+                "facebook": "zara@facebook",
+                "email": "zara@zara.com",
+                "instagram": "zara@instagram",
+                "phone": "01152174862",
+                "owner_details": "MUKIELE LTD."
+              }
+            }
+          },
+          {
+            "id": 2,
+            "media1Dot": "{\"x\": 0.35,\"y\": 0.5}",
+            "media2Dot": "{\"x\": 0.6,\"y\": 0.55}",
+            "media3Dot": "{\"x\": 0.75,\"y\": 0.85}",
+            "media4Dot": "{\"x\": 0.4,\"y\": 0.8}",
+            "product": {
+              "created_at": "Friday 8 March 2020",
+              "image1": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+              "image2": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+              "image3": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+              "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+              "name": "Green Suite Coat",
+              "price": 2250,
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "green",
+                "white",
+                "black",
+                "gray",
+                "red"
+              ],
+              "category": {
+                "id": 2,
+                "name": "Body",
+                "order": "2"
+              },
+              "seller": {
+                "name": "ZARA",
+                "website": "zara.com",
+                "facebook": "zara@facebook",
+                "email": "zara@zara.com",
+                "instagram": "zara@instagram",
+                "phone": "01152174862",
+                "owner_details": "MUKIELE LTD."
+              }
+            }
+          },
+          {
+            "id": 3,
+            "media1Dot": "{\"x\": 0.7,\"y\": 0.7}",
+            "media2Dot": "{\"x\": 0.4,\"y\": 0.4}",
+            "media3Dot": "{\"x\": 1.1,\"y\": 1.1}",
+            "media4Dot": "{\"x\": 1.1,\"y\": 1.1}",
+            "product": {
+              "created_at": "Friday 8 March 2020",
+              "image1": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+              "image2": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+              "image3": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+              "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+              "name": "Green Suite Shirt",
+              "price": 580,
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "green",
+                "white",
+                "black",
+                "gray",
+                "red"
+              ],
+              "category": {
+                "id": 3,
+                "name": "Leg",
+                "order": "3"
+              },
+              "seller": {
+                "name": "ZARA",
+                "website": "zara.com",
+                "facebook": "zara@facebook",
+                "email": "zara@zara.com",
+                "instagram": "zara@instagram",
+                "phone": "01152174862",
+                "owner_details": "MUKIELE LTD."
+              }
+            }
+          },
+          {
+            "id": 4,
+            "media1Dot": "{\"x\": 0.5,\"y\": 0.85}",
+            "media2Dot": "{\"x\": 0.15,\"y\": 0.85}",
+            "media3Dot": "{\"x\": 0.3,\"y\": 0.15}",
+            "media4Dot": "{\"x\": 0.7,\"y\": 0.7}",
+            "product": {
+              "created_at": "Sunday 3 January 2020",
+              "image1": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+              "image2": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+              "image3": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+              "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+              "name": "Green Suite Accessories",
+              "price": 150,
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "orange",
+                "white",
+                "black",
+                "gray",
+                "red"
+              ],
+              "category": {
+                "id": 4,
+                "name": "Feet",
+                "order": "4"
+              },
+              "seller": {
+                "name": "ZARA",
+                "website": "zara.com",
+                "facebook": "zara@facebook",
+                "email": "zara@zara.com",
+                "instagram": "zara@instagram",
+                "phone": "01152174862",
+                "owner_details": "MUKIELE LTD."
+              }
+            }
+          }
+        ],
+        "stylist": {
+          "name": "Ameria AlHoseney"
+        }
+      },
+      "stylist": {
+        "name": "Ameria AlHoseney"
+      }
+    }
+  ],
+  "looks": [
+    {
+      "id": 1,
+      "media1": "https://i.ibb.co/4P7JZPm/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-4.jpg",
+      "media2": "https://i.ibb.co/c86cjBz/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-3.jpg",
+      "media3": "https://i.ibb.co/pQ55vTY/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-5.jpg",
+      "media4": "https://i.ibb.co/s3rP0ph/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-2.jpg",
+      "description": "Who doesn't love a loose hijab wrap. It's easy and looks great.",
+      "name": "Loose hijab",
+      "created_at": "Sunday 3 January 2020",
+      "category": {
+        "id": 1,
+        "name": "Loose Hijab",
+        "order": "1"
+      },
+      "dots": [
+        {
+          "id": 1,
+          "media1Dot": "{\"x\": 0.5,\"y\": 0.15}",
+          "media2Dot": "{\"x\": 0.53,\"y\": 0.15}",
+          "media3Dot": "{\"x\": 0.6,\"y\": 0.4}",
+          "media4Dot": "{\"x\": 0.3,\"y\": 0.15}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/4P7JZPm/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-4.jpg",
+            "image2": "https://i.ibb.co/4P7JZPm/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-4.jpg",
+            "image3": "https://i.ibb.co/4P7JZPm/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-4.jpg",
+            "description": "Who doesn't love a loose hijab wrap. It's easy and looks great.",
+            "name": "Brown Hijab",
+            "price": 200,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "brown",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 1,
+              "name": "Head",
+              "order": "1"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "media1Dot": "{\"x\": 0.35,\"y\": 0.5}",
+          "media2Dot": "{\"x\": 0.4,\"y\": 0.6}",
+          "media3Dot": "{\"x\": 0.4,\"y\": 0.8}",
+          "media4Dot": "{\"x\": 0.6,\"y\": 0.5}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/c86cjBz/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-3.jpg",
+            "image2": "https://i.ibb.co/c86cjBz/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-3.jpg",
+            "image3": "https://i.ibb.co/c86cjBz/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-3.jpg",
+            "description": "Who doesn't love a loose hijab cardigan, It's easy and looks great.",
+            "name": "Loose Hijab cardigan",
+            "price": 1500,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "brown",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 2,
+              "name": "Body",
+              "order": "2"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "media1Dot": "{\"x\": 0.6,\"y\": 0.6}",
+          "media2Dot": "{\"x\": 1.1,\"y\": 1.1}",
+          "media3Dot": "{\"x\": 0.4,\"y\": 0.43}",
+          "media4Dot": "{\"x\": 0.7,\"y\": 0.85}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/pQ55vTY/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-5.jpg",
+            "image2": "https://i.ibb.co/pQ55vTY/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-5.jpg",
+            "image3": "https://i.ibb.co/pQ55vTY/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-5.jpg",
+            "description": "Who doesn't love a loose hijab belt. It's easy and looks great.",
+            "name": "Loose Hijab Belt",
+            "price": 580,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 3,
+              "name": "Leg",
+              "order": "3"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "media1Dot": "{\"x\": 0.15,\"y\": 0.7}",
+          "media2Dot": "{\"x\": 1.1,\"y\": 1.1}",
+          "media3Dot": "{\"x\": 0.6,\"y\": 0.85}",
+          "media4Dot": "{\"x\": 0.4,\"y\": 0.4}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/s3rP0ph/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-2.jpg",
+            "image2": "https://i.ibb.co/s3rP0ph/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-2.jpg",
+            "image3": "https://i.ibb.co/s3rP0ph/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-2.jpg",
+            "description": "Who doesn't love a loose hijab accessories, It's easy and looks great.",
+            "name": "Loose Hijab Accessories",
+            "price": 250,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 4,
+              "name": "Feet",
+              "order": "4"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        }
+      ],
+      "stylist": {
+        "name": "Ahmed Ali"
+      }
+    },
+    {
+      "id": 2,
+      "media1": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+      "media2": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+      "media3": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+      "media4": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+      "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+      "name": "Green Suite",
+      "created_at": "Friday 8 March 2020",
+      "category": {
+        "id": 2,
+        "name": "Suites Dresses",
+        "order": "2"
+      },
+      "dots": [
+        {
+          "id": 1,
+          "media1Dot": "{\"x\": 0.46,\"y\": 0.18}",
+          "media2Dot": "{\"x\": 0.65,\"y\": 0.18}",
+          "media3Dot": "{\"x\": 0.8,\"y\": 0.3}",
+          "media4Dot": "{\"x\": 0.3,\"y\": 0.25}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+            "image2": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+            "image3": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+            "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+            "name": "Green Suite Hijab",
+            "price": 200,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "Green",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 1,
+              "name": "Head",
+              "order": "1"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "media1Dot": "{\"x\": 0.35,\"y\": 0.5}",
+          "media2Dot": "{\"x\": 0.6,\"y\": 0.55}",
+          "media3Dot": "{\"x\": 0.75,\"y\": 0.85}",
+          "media4Dot": "{\"x\": 0.4,\"y\": 0.8}",
+          "product": {
+            "created_at": "Friday 8 March 2020",
+            "image1": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+            "image2": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+            "image3": "https://i.ibb.co/qBKs0n5/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-7.jpg",
+            "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+            "name": "Green Suite Coat",
+            "price": 2250,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "green",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 2,
+              "name": "Body",
+              "order": "2"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "media1Dot": "{\"x\": 0.7,\"y\": 0.7}",
+          "media2Dot": "{\"x\": 0.4,\"y\": 0.4}",
+          "media3Dot": "{\"x\": 1.1,\"y\": 1.1}",
+          "media4Dot": "{\"x\": 1.1,\"y\": 1.1}",
+          "product": {
+            "created_at": "Friday 8 March 2020",
+            "image1": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+            "image2": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+            "image3": "https://i.ibb.co/4TKJ6pV/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-18.jpg",
+            "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+            "name": "Green Suite Shirt",
+            "price": 580,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "green",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 3,
+              "name": "Leg",
+              "order": "3"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "media1Dot": "{\"x\": 0.5,\"y\": 0.85}",
+          "media2Dot": "{\"x\": 0.15,\"y\": 0.85}",
+          "media3Dot": "{\"x\": 0.3,\"y\": 0.15}",
+          "media4Dot": "{\"x\": 0.7,\"y\": 0.7}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+            "image2": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+            "image3": "https://i.ibb.co/BrGbpyv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-39.jpg",
+            "description": "A lot of girls look for satin hijab so they can change up their look every once in a while.",
+            "name": "Green Suite Accessories",
+            "price": 150,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 4,
+              "name": "Feet",
+              "order": "4"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        }
+      ],
+      "stylist": {
+        "name": "Ameria AlHoseney"
+      }
+    },
+    {
+      "id": 3,
+      "media1": "https://i.ibb.co/jhXzTRP/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-13.jpg",
+      "media2": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+      "media3": "https://i.ibb.co/pW4rT3r/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-43.jpg",
+      "media4": "https://i.ibb.co/sw5YJhG/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-29.jpg",
+      "description": "Black is Gold, fancy dresses for a good night.",
+      "name": "Black Night",
+      "created_at": "Friday 52 June 2019",
+      "category": {
+        "id": 3,
+        "name": "Fancy Dresses",
+        "order": "3"
+      },
+      "dots": [
+        {
+          "id": 1,
+          "media1Dot": "{\"x\": 0.5,\"y\": 0.1}",
+          "media2Dot": "{\"x\": 0.5,\"y\": 0.1}",
+          "media3Dot": "{\"x\": 0.7,\"y\": 0.1}",
+          "media4Dot": "{\"x\": 0.5,\"y\": 0.1}",
+          "product": {
+            "created_at": "Friday 52 June 2019",
+            "image1": "https://i.ibb.co/jhXzTRP/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-13.jpg",
+            "image2": "https://i.ibb.co/jhXzTRP/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-13.jpg",
+            "image3": "https://i.ibb.co/jhXzTRP/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-13.jpg",
+            "description": "Black is Gold, fancy dresses for a good night.",
+            "name": "Black Night Hijab",
+            "price": 199.99,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 1,
+              "name": "Head",
+              "order": "1"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "media1Dot": "{\"x\": 0.4,\"y\": 0.5}",
+          "media2Dot": "{\"x\": 0.7,\"y\": 0.8}",
+          "media3Dot": "{\"x\": 0.4,\"y\": 0.8}",
+          "media4Dot": "{\"x\": 0.5,\"y\": 0.65}",
+          "product": {
+            "created_at": "Friday 52 June 2019",
+            "image1": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+            "image2": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+            "image3": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+            "description": "Black is Gold, fancy dresses for a good night.",
+            "name": "Black Night Dress",
+            "price": 3952,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 2,
+              "name": "Body",
+              "order": "2"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "media1Dot": "{\"x\": 1.7,\"y\": 1.7}",
+          "media2Dot": "{\"x\": 1.7,\"y\": 1.7}",
+          "media3Dot": "{\"x\": 0.2,\"y\": 0.6}",
+          "media4Dot": "{\"x\": 0.2,\"y\": 0.8}",
+          "product": {
+            "created_at": "Friday 52 June 2019",
+            "image1": "https://i.ibb.co/pW4rT3r/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-43.jpg",
+            "image2": "https://i.ibb.co/pW4rT3r/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-43.jpg",
+            "image3": "https://i.ibb.co/pW4rT3r/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-43.jpg",
+            "description": "Black is Gold, fancy dresses for a good night.",
+            "name": "Black Night Jacket",
+            "price": 580,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 3,
+              "name": "Leg",
+              "order": "3"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "media1Dot": "{\"x\": 0.2,\"y\": 0.275}",
+          "media2Dot": "{\"x\": 1.5,\"y\": 1.9}",
+          "media3Dot": "{\"x\": 0.72,\"y\": 0.69}",
+          "media4Dot": "{\"x\": 0.5,\"y\": 0.9}",
+          "product": {
+            "created_at": "Sunday 3 January 2020",
+            "image1": "https://i.ibb.co/sw5YJhG/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-29.jpg",
+            "image2": "https://i.ibb.co/sw5YJhG/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-29.jpg",
+            "image3": "https://i.ibb.co/sw5YJhG/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-29.jpg",
+            "description": "Black is Gold, fancy dresses for a good night.",
+            "name": "Black Night Accessories",
+            "price": 99.99,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 4,
+              "name": "Feet",
+              "order": "4"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        }
+      ],
+      "stylist": {
+        "name": "Jasmine Ahmed"
+      }
+    },
+    {
+      "id": 4,
+      "media1": "https://i.ibb.co/3ynNT1W/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-35.jpg",
+      "media2": "https://i.ibb.co/FWHfvRH/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-23.jpg",
+      "media3": "https://i.ibb.co/FbJ0cXX/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-22.jpg",
+      "media4": "https://i.ibb.co/tBVbzcv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-27.jpg",
+      "description": "New Royal Style White Maternity Lace Dress, for a morning walk.",
+      "name": "White Walk",
+      "created_at": "Sunday 1 July 2018",
+      "category": {
+        "id": 1,
+        "name": "Loose Hijab",
+        "order": "1"
+      },
+      "dots": [
+        {
+          "id": 1,
+          "media1Dot": "{\"x\": 0.75,\"y\": 0.1}",
+          "media2Dot": "{\"x\": 0.4,\"y\": 0.35}",
+          "media3Dot": "{\"x\": 0.6,\"y\": 0.25}",
+          "media4Dot": "{\"x\": 0.5,\"y\": 0.25}",
+          "product": {
+            "created_at": "Sunday 1 July 2018",
+            "image1": "https://i.ibb.co/3ynNT1W/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-35.jpg",
+            "image2": "https://i.ibb.co/3ynNT1W/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-35.jpg",
+            "image3": "https://i.ibb.co/3ynNT1W/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-35.jpg",
+            "description": "New Royal Style White Maternity Lace Dress, for a morning walk.",
+            "name": "White Walk Hijab",
+            "price": 199.99,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 1,
+              "name": "Head",
+              "order": "1"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "media1Dot": "{\"x\": 0.43,\"y\": 0.5}",
+          "media2Dot": "{\"x\": 0.6,\"y\": 0.5}",
+          "media3Dot": "{\"x\": 0.2,\"y\": 0.4}",
+          "media4Dot": "{\"x\": 0.4,\"y\": 0.5}",
+          "product": {
+            "created_at": "Sunday 1 July 2018",
+            "image1": "https://i.ibb.co/FWHfvRH/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-23.jpg",
+            "image2": "https://i.ibb.co/FWHfvRH/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-23.jpg",
+            "image3": "https://i.ibb.co/FWHfvRH/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-23.jpg",
+            "description": "New Royal Style White Maternity Lace Dress, for a morning walk.",
+            "name": "White Walk Shirt",
+            "price": 3952,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 2,
+              "name": "Body",
+              "order": "2"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "media1Dot": "{\"x\": 0.55,\"y\": 0.85}",
+          "media2Dot": "{\"x\": 1.7,\"y\": 1.7}",
+          "media3Dot": "{\"x\": 1.7,\"y\": 1.7}",
+          "media4Dot": "{\"x\": 1.7,\"y\": 1.7}",
+          "product": {
+            "created_at": "Sunday 1 July 2018",
+            "image1": "https://i.ibb.co/FbJ0cXX/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-22.jpg",
+            "image2": "https://i.ibb.co/FbJ0cXX/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-22.jpg",
+            "image3": "https://i.ibb.co/FbJ0cXX/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-22.jpg",
+            "description": "New Royal Style White Maternity Lace Dress, for a morning walk.",
+            "name": "White Walk Jacket",
+            "price": 580,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 3,
+              "name": "Leg",
+              "order": "3"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "media1Dot": "{\"x\": 0.4,\"y\": 0.89}",
+          "media2Dot": "{\"x\": 0.55,\"y\": 0.89}",
+          "media3Dot": "{\"x\": 1.5,\"y\": 1.9}",
+          "media4Dot": "{\"x\": 1.5,\"y\": 1.9}",
+          "product": {
+            "created_at": "Sunday 1 July 2018",
+            "image1": "https://i.ibb.co/tBVbzcv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-27.jpg",
+            "image2": "https://i.ibb.co/tBVbzcv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-27.jpg",
+            "image3": "https://i.ibb.co/tBVbzcv/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-27.jpg",
+            "description": "New Royal Style White Maternity Lace Dress, for a morning walk.",
+            "name": "White Walk Accessories",
+            "price": 99.99,
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "colors": [
+              "orange",
+              "white",
+              "black",
+              "gray",
+              "red"
+            ],
+            "category": {
+              "id": 4,
+              "name": "Feet",
+              "order": "4"
+            },
+            "seller": {
+              "name": "ZARA",
+              "website": "zara.com",
+              "facebook": "zara@facebook",
+              "email": "zara@zara.com",
+              "instagram": "zara@instagram",
+              "phone": "01152174862",
+              "owner_details": "MUKIELE LTD."
+            }
+          }
+        }
+      ],
+      "stylist": {
+        "name": "Salwa Ezzat"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "price": 580,
+      "Date": "Sunday 3 January 2020 23:25:55 ",
+      "name": "Loose Hijab Belt",
+      "brand": "ZARA",
+      "state": "Accepted",
+      "imgAddress": "https://i.ibb.co/pQ55vTY/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-5.jpg",
+      "size": "M",
+      "color": "orange",
+      "id": 1
+    },
+    {
+      "price": 200,
+      "Date": "Sunday 3 January 2020",
+      "name": "Brown Hijab",
+      "brand": "ZARA",
+      "state": "Pending",
+      "imgAddress": "https://i.ibb.co/4P7JZPm/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-4.jpg",
+      "size": "M",
+      "color": "gray",
+      "id": 2
+    },
+    {
+      "price": 200,
+      "Date": "Sunday 3 January 2020 23:25:55 ",
+      "name": "Green Suite Hijab",
+      "brand": "ZARA",
+      "state": "Shipped",
+      "imgAddress": "https://i.ibb.co/tC3Vvc8/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-1.jpg",
+      "size": "XL",
+      "color": "green",
+      "id": 3
+    },
+    {
+      "price": 3952,
+      "Date": "Friday 52 June 2019 23:25:55 ",
+      "name": "Black Night Dress",
+      "brand": "ZARA",
+      "state": "Rejected",
+      "imgAddress": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+      "size": "XL",
+      "color": "red",
+      "id": 4
+    },
+    {
+      "price": 3952,
+      "Date": "Friday 52 June 2020 23:25:55 ",
+      "name": "Black Night Dress",
+      "brand": "ZARA",
+      "state": "Shipped",
+      "imgAddress": "https://i.ibb.co/4RwTv2x/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-17.jpg",
+      "size": "XL",
+      "color": "black",
+      "id": 5
+    },
+    {
+      "price": 1500,
+      "Date": "Tue, 02 Feb 2021 16:13:22 ",
+      "name": "Loose Hijab cardigan",
+      "brand": "ZARA",
+      "state": "Pending",
+      "imgAddress": "https://i.ibb.co/c86cjBz/large-Friday-fashion-fits-new-hijab-tutorial-ideas-and-how-to-style-it-fustany-ar-3.jpg",
+      "size": "S",
+      "color": "brown",
+      "id": 6
+    }
+  ]
+}

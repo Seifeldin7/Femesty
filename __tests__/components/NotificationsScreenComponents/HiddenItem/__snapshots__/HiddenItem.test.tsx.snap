@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render hidden item correctly in notifications 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "borderRadius": 10,
+      "flex": 1,
+      "flexDirection": "row",
+      "height": 80,
+      "justifyContent": "space-between",
+      "margin": 5,
+      "marginBottom": 15,
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#8C9DB3",
+        "borderBottomRightRadius": 10,
+        "borderTopRightRadius": 10,
+        "bottom": 0,
+        "height": 80,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+        "width": 150,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text />
+      <Text
+        style={
+          Object {
+            "color": "white",
+          }
+        }
+      >
+        Mark as read
+      </Text>
+    </View>
+  </View>
+</View>
+`;

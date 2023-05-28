@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render my profile correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "marginTop": null,
+    }
+  }
+  horizontal={false}
+>
+  <View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flex": 2,
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+            "paddingLeft": 40,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 30,
+            }
+          }
+        >
+          My Profile
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+            "paddingRight": 20,
+            "paddingTop": 7,
+          }
+        }
+      >
+        <Text />
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 2.5,
+          "opacity": 1,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "borderRadius": 20,
+            "height": 120,
+            "width": 120,
+          }
+        }
+      />
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontSize": 25,
+            "marginTop": 5,
+          }
+        }
+      >
+        Ahmed Mohamed
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "grey",
+            "fontSize": 17,
+          }
+        }
+      >
+        ahmed
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 3.5,
+          "marginLeft": 15,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 20,
+            "opacity": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text />
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_Regular",
+              "fontSize": 20,
+              "marginLeft": 20,
+            }
+          }
+        >
+          Delivery Details
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 20,
+            "opacity": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text />
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_Regular",
+              "fontSize": 20,
+              "marginLeft": 20,
+            }
+          }
+        >
+          My Favorites
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 20,
+            "opacity": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text />
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_Regular",
+              "fontSize": 20,
+              "marginLeft": 20,
+            }
+          }
+        >
+          Live Chat
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 20,
+            "opacity": 1,
+            "padding": 10,
+          }
+        }
+      >
+        <Text />
+        <Text
+          style={
+            Object {
+              "color": "#1E1E1E",
+              "fontFamily": "Lato_Regular",
+              "fontSize": 20,
+              "marginLeft": 20,
+            }
+          }
+        >
+          Logout
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

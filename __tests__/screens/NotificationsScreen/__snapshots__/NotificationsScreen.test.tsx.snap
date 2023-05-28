@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render notifications correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "marginTop": null,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-evenly",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginLeft": -20,
+          "opacity": 1,
+          "paddingTop": 7,
+        }
+      }
+    >
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "marginLeft": 20,
+          "width": 170,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 30,
+          }
+        }
+      >
+        Notifications
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "width": 40,
+        }
+      }
+    />
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "marginHorizontal": 10,
+        "marginTop": 30,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1E1E1E",
+          "fontFamily": "Lato_SemiBold",
+          "fontSize": 15,
+        }
+      }
+    >
+      Mark all as read
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "height": 1334,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <ActivityIndicator
+      animating={true}
+      color="black"
+      hidesWhenStopped={true}
+      size="large"
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render button in all screens 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "backgroundColor": "blue",
+          "borderRadius": 5,
+        },
+      ]
+    }
+    testID="SocailButton"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "padding": 8,
+          },
+          Object {
+            "backgroundColor": "blue",
+            "borderRadius": 5,
+          },
+          Object {
+            "justifyContent": "center",
+            "padding": 15,
+            "width": 675,
+          },
+        ]
+      }
+    >
+      <Text />
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Signin with Facebook
+      </Text>
+    </View>
+  </View>
+</View>
+`;
